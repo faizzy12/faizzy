@@ -1,0 +1,2 @@
+# faizzy
+code for javascripts
